@@ -1,8 +1,8 @@
 class Leo < Formula
   desc "Personal, extensible task-runner CLI with a JSON object store"
   homepage "https://github.com/StealthFactory/leo"
-  url "https://github.com/StealthFactory/leo/archive/refs/tags/v0.3.3.tar.gz"
-  sha256 "8c3f1ba74536439e6dbcec3ee5a3465b23950c4bb9cf2f7d67e654a09b35cd90"
+  url "https://github.com/StealthFactory/leo/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "5ffb97151223ed2f3396cb62359e9edaa72d505c523042912bb8e0f59a338927"
   license "MIT"
   head "https://github.com/StealthFactory/leo.git", branch: "main"
 
